@@ -15,7 +15,7 @@
     "url": "https://github.com/ntt77/vscode-new-everest-theme"
   },
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
