@@ -1,6 +1,16 @@
-# New Everest Theme
+<div align="center">
+  <img src="./icon.png" alt="logo" width="100">
+
+# New Everest Theme <br><br>
 
 This extension for Visual Studio Code adds themes titled "New Everest".
+
+[![Version](https://vsmarketplacebadges.dev/version/egoz.new-everest-theme.svg)](https://marketplace.visualstudio.com/items?itemName=egoz.new-everest-theme)&nbsp;
+[![Installs](https://vsmarketplacebadges.dev/installs/egoz.new-everest-theme.svg)](https://marketplace.visualstudio.com/items?itemName=egoz.new-everest-theme)&nbsp;
+[![Downloads](https://vsmarketplacebadges.dev/downloads/egoz.new-everest-theme.svg)](https://marketplace.visualstudio.com/items?itemName=egoz.new-everest-theme)
+
+</div>
+
 
 ## Description
 
